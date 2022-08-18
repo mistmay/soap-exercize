@@ -1,0 +1,7 @@
+com\advancia\wsImport2\ws\client\GetIdCardListResponse.class
+com\advancia\wsImport2\ws\client\GetIdCardList.class
+com\advancia\wsImport2\ws\client\IdCard.class
+com\advancia\wsImport2\ws\client\IdCardServiceImpl.class
+com\advancia\wsImport2\ws\client\ObjectFactory.class
+com\advancia\wsImport2\ws\client\IdCardServiceImplService.class
+com\advancia\wsImport2\ws\client\package-info.class
